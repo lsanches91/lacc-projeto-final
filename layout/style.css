@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Kufam:ital,wght@0,400;0,500;0,600;1,400;1,500&display=swap');
+
+body {
+    padding-top: 5em;
+    font-family: 'Kufam', cursive;
+}
+
+main{
+    margin-bottom: 4em;
+}
+
+.jumbotron {
+    background-color: rgb(255, 255, 255, 0);
+}
+
+.menuColor {
+    background-color: rgb(114, 109, 168);
+    color: black;
+}
+
+#goToDiv0, #goToDiv1, #goToDiv2, #goToDiv3, #goToDiv4, #goToDiv5, #ddTemas {
+    color: black;
+}
+
+.btn {
+    background-color: rgb(246, 142, 62);
+    border: 0px;
+}
+.fixedFooter {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    z-index: 100;
+}
