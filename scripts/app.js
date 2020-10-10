@@ -14,9 +14,6 @@ function darkTheme() {
     $(".menuColor").css({"background-color":"rgb(25, 9, 51)"});    
     $("body, .jumbotron, .menuColor, #goToDiv0, #goToDiv1, #goToDiv2, #goToDiv3, #goToDiv4, #goToDiv5, #ddTemas")
     .css({"color":"white"});
-    //$("body").css({"background-color":"black"});
-    //$("body").css({"color":"white"});
-    //$(".menuColor").css({"color":"white"});
 }
 
 function lightTheme() {
@@ -25,9 +22,6 @@ function lightTheme() {
     $(".menuColor").css({"background-color":"rgb(114, 109, 168)"});    
     $("body, .jumbotron, .menuColor, #goToDiv0, #goToDiv1, #goToDiv2, #goToDiv3, #goToDiv4, #goToDiv5, #ddTemas")
     .css({"color":"black"});
-    //$("body").css({"background-color":"white"});
-    //$("body").css({"color":"black"});
-    //$(".menuColor").css({"color":"black"});
 }
 
 function midnightSun() {
